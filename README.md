@@ -22,6 +22,26 @@ KNN Recommendation System for personalized music suggestions
 The final goal is to develop a Decision Support System (DSS) that can assist music producers, marketers, and streaming platforms in making strategic decisions.
 
 ## 👥 Team Members
+# Repository Links
+
+## Main Document
+- [Main Document](Documentation/main_document.md)
+
+## Documentation Files
+- [Project Overview](Documentation/project_overview.md)
+- [Problem Analysis](Documentation/problem_analysis.md)
+- [System Design](Documentation/system_design.md)
+- [Gantt Chart](Documentation/gantt_chart.md)
+- [Dataset](Documentation/dataset.md)
+- [Tools and Technologies](Documentation/tools_and_technologies.md)
+
+## Logs
+- [Day 1 Log](Logs/log_day1.md)
+
+## Project Folders
+- [Data Folder](Data/)
+- [Source Folder](Source/)
+- [Reports Folder](Reports/)
 
 - Necla Ilayda Guler – [GitHub](https://github.com/tnaduivnmani)
 - Sourav Jaiswal – [GitHub](https://github.com/souravjaiswal440)
