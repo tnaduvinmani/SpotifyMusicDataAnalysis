@@ -48,3 +48,10 @@ The final goal is to develop a Decision Support System (DSS) that can assist mus
 - Omer Furkan Bilici – [GitHub](https://github.com/username4)
 - Harshal Tittamelanahalli – [GitHub](https://github.com/username5)
 - Tabassum Nadavinmani – [GitHub](https://github.com/tnaduivnmani)
+
+## 📊 Dataset
+
+- Artist data: https://www.kaggle.com/datasets/nimishasen27/spotify-dataset?select=artists.csv
+- Track data: https://www.kaggle.com/datasets/nimishasen27/spotify-dataset?select=tracks.csv
+
+Files are too large for GitHub. Download and place in the `Data/` folder.
